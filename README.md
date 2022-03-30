@@ -3,7 +3,7 @@
 -  ❇️ +92 318 4188449 
 -  ❇️ muhammadhamza110394@gmail.com
 
-- 👀 I’m Certified WordPress Expert | Senior Web Developer
+- 👀 I’m Certified WordPress Expert | Senior Full Stack Web Developer
 
 - 🌱 I am a Professional web developer with over 8 years of experience! I am a super-experienced developer who can build, design, and develop your website. My code is clean, and my clients are satisfied. If you are looking for a responsible developer and need excellent communication and fast results, Everything You need is here.
       I am an accountable professional. Programming is my work and my passion. The most crucial aspect of this job for me is people I could help to achieve their goals. You will always be getting prompt answers from me, and you will stay up to date regarding your project during all the development processes.
