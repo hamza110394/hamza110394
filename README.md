@@ -3,30 +3,54 @@
 -  ❇️ +92 318 4188449 
 -  ❇️ muhammadhamza110394@gmail.com
 
-- 👀 I’m Certified WordPress Expert | Senior Full Stack Web Developer
+- 👀 I’m CERTIFIED  Senior Full Stack Web Developer | UI/UX Designer | Graphic Designer
 
-- 🌱 I am a Professional web developer with over 8 years of experience! I am a super-experienced developer who can build, design, and develop your website. My code is clean, and my clients are satisfied. If you are looking for a responsible developer and need excellent communication and fast results, Everything You need is here.
-      I am an accountable professional. Programming is my work and my passion. The most crucial aspect of this job for me is people I could help to achieve their goals. You will always be getting prompt answers from me, and you will stay up to date regarding your project during all the development processes.
+A Professional Full-Stack💥Web Developer💥 UI/UX Designer💥Graphic Designer with Comprehensive Expertise is here!
 
-- 💞️ Here is a detailed description of my skills:
+I'm a Professional💦 web developer and 💦designer with over 8 years of experience! I am a super-experienced developer who can build, design, and develop your website also commercial experience in Mobile📱 and Web UX and UI Design🖼 and I've been working in Web Development for over 2 years⏱ as a Front-end developer. I specialize in combining quality UI and graphic design with robust responsive code. I'm a very detail-oriented person and am also hardworking and responsible; especially with deadlines.🛎️⏲️
 
-❇️Technologies:
-✔️PHP,
-✔️HTML5, CSS3,
-✔️JavaScript, jQuery and AJAX,
-✔️JSON, XML,
-✔️SQL, MySql,
-✔️Bootstrap 2/3;
+💥💥💥Here is a detailed description of my skills:
 
-❇️Front-end/JavaScript Frameworks:
-✔️React.js
+
+
+📌📌📌📌📌📌📌Specialization📌📌📌📌📌📌📌📌:
+
+💡 Web Design, Mobile App Design
+💡Web development,
+
+
+
+
+📌📌📌📌📌📌Development and design Technologies📌📌📌📌📌📌:
+
+💡React, PHP, JavaScript, jQuery and AJAX,
+💡HTML5, CSS3, Bootstrap 2/3;
+💡JSON, XML,
+💡SQL, MySql,
+💡Figma, Sketch App, Photoshop, Illustrator, InDesign, After Effects, Experience Design
+
+
+
+💥📌📌📌📌📌I am inspired by the creation UI / UX design and development📌📌📌📌📌📌📌:
+
+💦CRM / ERP system🪕
+
+💦SAAS platforms 🔗
+
+💦Mobile Apps 📱
+
+💦E-commerce 📉
+
+
 
 ❇️CMS/Platforms:
+
 ✔️WordPress,
 ✔️WooCommerce,
 ✔️Shopify,
 
 ❇️API:
+
 ✔️Google Maps API,
 ✔️PayPal API,
 ✔️Traffics.de API,
@@ -34,11 +58,13 @@
 ✔️Immowelt.de API RDBMS (MySQL);
 
 ❇️Operating Systems:
+
 ✔️Windows,
 
-- 📫During all my 8 years in the web-development field I meet such experience:
+During all my 8 years in the development and designing field I meet such experience:
 
 ⚡️Designing and developing responsive design websites;
+⚡️Wireframing: Sketch, Prototyping: inVision, Adobe XD,
 ⚡️Building user interfaces for websites and/or web applications;
 ⚡️Convert comprehensive layout and wireframes into working HTML pages;
 ⚡️CSS changes and their ramifications to ensure consistent style across platforms and browsers;
